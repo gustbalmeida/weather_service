@@ -11,7 +11,7 @@ A Flask-based service to collect weather data using the Open Weather API.
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/gustbalmeida/weather_service.git
     cd weather_service
     ```
 
